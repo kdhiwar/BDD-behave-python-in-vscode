@@ -1,3 +1,5 @@
+How to run BDD with  behave  and python in VS code
+
 -Create new Workspace for BDD
 
 -Create new venv BDD_VENV and activate
