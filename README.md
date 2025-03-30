@@ -1,12 +1,12 @@
 How to run BDD with  behave  and python in VS code
 
--Create new Workspace for BDD
+-Create new Workspace for BDD in VScode
 
--Create new venv BDD_VENV and activate
+-Create new venv BDD_VENV and activate in terminal
 
 -Goto Extentions and install Behvae VSC pre release version
 
--Goto python extention settings select workspace tab and change interpreter path to virtual environment venv path
+-Goto python extention settings select workspace tab and change interpreter path to virtual environment venv python path
 
 
 -First, install behave - pip install behave
